@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/pregnancy/static/css/main.ce7aa1b6.chunk.css",
-    "main.js": "/pregnancy/static/js/main.2ffc5f11.chunk.js",
-    "main.js.map": "/pregnancy/static/js/main.2ffc5f11.chunk.js.map",
+    "main.js": "/pregnancy/static/js/main.c6d93589.chunk.js",
+    "main.js.map": "/pregnancy/static/js/main.c6d93589.chunk.js.map",
     "runtime-main.js": "/pregnancy/static/js/runtime-main.d73839f2.js",
     "runtime-main.js.map": "/pregnancy/static/js/runtime-main.d73839f2.js.map",
-    "static/js/2.ae69f7a8.chunk.js": "/pregnancy/static/js/2.ae69f7a8.chunk.js",
-    "static/js/2.ae69f7a8.chunk.js.map": "/pregnancy/static/js/2.ae69f7a8.chunk.js.map",
+    "static/js/2.cc036918.chunk.js": "/pregnancy/static/js/2.cc036918.chunk.js",
+    "static/js/2.cc036918.chunk.js.map": "/pregnancy/static/js/2.cc036918.chunk.js.map",
     "static/js/3.dc4081f5.chunk.js": "/pregnancy/static/js/3.dc4081f5.chunk.js",
     "static/js/3.dc4081f5.chunk.js.map": "/pregnancy/static/js/3.dc4081f5.chunk.js.map",
     "index.html": "/pregnancy/index.html",
     "static/css/main.ce7aa1b6.chunk.css.map": "/pregnancy/static/css/main.ce7aa1b6.chunk.css.map",
-    "static/js/2.ae69f7a8.chunk.js.LICENSE.txt": "/pregnancy/static/js/2.ae69f7a8.chunk.js.LICENSE.txt"
+    "static/js/2.cc036918.chunk.js.LICENSE.txt": "/pregnancy/static/js/2.cc036918.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.d73839f2.js",
-    "static/js/2.ae69f7a8.chunk.js",
+    "static/js/2.cc036918.chunk.js",
     "static/css/main.ce7aa1b6.chunk.css",
-    "static/js/main.2ffc5f11.chunk.js"
+    "static/js/main.c6d93589.chunk.js"
   ]
 }
