@@ -2,17 +2,19 @@ import jsPDF from "jspdf";
 import "jspdf-autotable";
 
 const appointmentDescription = {
+  "week-10": "1. Ultraschall, Vergabe Schwangerschaftspass, ggf. Blutentnahme (Toxoplasmose/CMV)",
   "week-14": "Ultraschall, wenn keine frühe Feindiagnostik erfolgt ist.",
   "week-16": "Besprechen Befund frühe Feindiagnostik",
   "week-20": "2. Ultraschall, ggf. Blutentnahme (Kontrolle Toxoplasmose/CMV, Bestimmung fetaler Rhesus-Faktor)",
   "week-25": "50g-Zuckertest, Blutentnahme (2. Antikörpertest, kleines Blutbild)",
   "week-30": "3. Ultraschall, Impfung Keuchhusten",
-  "week-33": "CTG, Blutentnahme (Hepatitis B, kleines Blutbild, ggf. Kontrolle Toxoplasmose/CMV)",
-  "week-36": "CTG, Ultraschall Wachstumskontrolle, ggf. B-Streptokokken-Abstrich",
-  "week-37": "CTG, Geburtsplanung",
-  "week-38": "CTG, Geburtsplanung",
-  "week-39": "CTG, Geburtsplanung",
-  "birthdate": "CTG, Ultraschall Fruchtwasser"
+  "week-33": "Blutentnahme (Hepatitis B, kleines Blutbild, ggf. Kontrolle Toxoplasmose/CMV), ggf. CTG",
+  "week-36": "Ultraschall Wachstumskontrolle, ggf. B-Streptokokken-Abstrich, ggf. CTG",
+  "week-37": "Geburtsplanung, ggf. CTG",
+  "week-38": "Geburtsplanung, ggf. CTG",
+  "week-39": "Geburtsplanung, ggf. CTG",
+  "birthdate": "Ultraschall Fruchtwasser, ggf. CTG",
+  "control-appointment": " Nachsorge"
 };
 
 // define a generatePDF function that accepts appointments

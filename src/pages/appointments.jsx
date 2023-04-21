@@ -53,7 +53,8 @@ const WEEKS_WITH_APPOINTMENT = new Set([
   "week-37",
   "week-38",
   "week-39",
-  "birthdate"
+  "birthdate",
+  "control-appointment"
 ]);
 
 const dateNames = new Map([
@@ -114,6 +115,11 @@ function createDataFromLastPeriodDay(lastPeriodDay, birthDate) {
       id: "birthdate",
       readableId: "Errechneter Geburtstermin",
       description: birthDate.format(DATE_FORMAT),
+  });
+  result.push({
+      id: "control-appointment",
+      readableId: "Kontrolltermin nach Geburt",
+      description: "8 Wochen nach Geburt",
   });
   return result;
 }
