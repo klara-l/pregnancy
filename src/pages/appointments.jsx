@@ -119,7 +119,7 @@ function createDataFromLastPeriodDay(lastPeriodDay, birthDate) {
   result.push({
       id: "control-appointment",
       readableId: "Kontrolltermin nach Geburt",
-      description: "8 Wochen nach Geburt",
+      description: "6-8 Wochen nach Geburt",
   });
   return result;
 }

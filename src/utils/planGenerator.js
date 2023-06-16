@@ -8,7 +8,7 @@ const appointmentDescription = {
   "week-20": "2. Ultraschall, ggf. Blutentnahme (Kontrolle Toxoplasmose/CMV, Bestimmung fetaler Rhesus-Faktor)",
   "week-25": "50g-Zuckertest, Blutentnahme (2. Antikörpertest, kleines Blutbild)",
   "week-30": "3. Ultraschall, Impfung Keuchhusten",
-  "week-33": "Blutentnahme (Hepatitis B, kleines Blutbild, ggf. Kontrolle Toxoplasmose/CMV), ggf. CTG",
+  "week-33": "Blutentnahme (kleines Blutbild, ggf. Kontrolle Toxoplasmose/CMV), ggf. CTG",
   "week-36": "Ultraschall Wachstumskontrolle, ggf. B-Streptokokken-Abstrich, ggf. CTG",
   "week-37": "Geburtsplanung, ggf. CTG",
   "week-38": "Geburtsplanung, ggf. CTG",
