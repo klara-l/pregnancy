@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/pregnancy/static/css/main.ce7aa1b6.chunk.css",
-    "main.js": "/pregnancy/static/js/main.fdfc941e.chunk.js",
-    "main.js.map": "/pregnancy/static/js/main.fdfc941e.chunk.js.map",
+    "main.js": "/pregnancy/static/js/main.e7fa6a60.chunk.js",
+    "main.js.map": "/pregnancy/static/js/main.e7fa6a60.chunk.js.map",
     "runtime-main.js": "/pregnancy/static/js/runtime-main.e6cb3cf0.js",
     "runtime-main.js.map": "/pregnancy/static/js/runtime-main.e6cb3cf0.js.map",
     "static/js/2.5f469e88.chunk.js": "/pregnancy/static/js/2.5f469e88.chunk.js",
@@ -24,6 +24,6 @@
     "static/js/runtime-main.e6cb3cf0.js",
     "static/js/2.5f469e88.chunk.js",
     "static/css/main.ce7aa1b6.chunk.css",
-    "static/js/main.fdfc941e.chunk.js"
+    "static/js/main.e7fa6a60.chunk.js"
   ]
 }
